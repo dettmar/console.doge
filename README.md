@@ -1,6 +1,6 @@
 # wow, console.doge()
 
-###So example:  
+### So example:  
 
 ```javascript
 console.doge("Hello world!")
@@ -13,5 +13,8 @@ Download the [`console.doge.js`](https://raw.github.com/dettmar/console.doge/mas
 <script src="console.doge.js"></script>
 ```
 
-###Such preview:  
-![alt tag](http://i.imgur.com/xBEsOQp.png)
+### Such preview:  
+![Console](http://i.imgur.com/xBEsOQp.png)
+
+### Much support:
+Chrome, Opera, FF with Firebug 11.2 and above
