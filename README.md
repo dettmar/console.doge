@@ -16,5 +16,5 @@ Download the [`console.doge.js`](https://raw.github.com/dettmar/console.doge/mas
 ### Such preview:  
 ![Console](http://i.imgur.com/xBEsOQp.png)
 
-### Much support:
-Chrome, Opera, FF with Firebug 11.2 and above
+### Much support:  
+Chrome, Opera, FF with Firebug 11.2 and above, Safari
